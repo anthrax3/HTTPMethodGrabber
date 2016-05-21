@@ -9,3 +9,14 @@ c:\users\_gersywin_\documents\visual studio 2012\Projects\MethodGrabber\MethodGr
 c:\users\_gersywin_\documents\visual studio 2012\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.FormBody.resources
 c:\users\_gersywin_\documents\visual studio 2012\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.Formabout.resources
 c:\users\_gersywin_\documents\visual studio 2012\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.FormDever.resources
+D:\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.exe
+D:\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.pdb
+D:\Projects\MethodGrabber\MethodGrabber\bin\Debug\MethodGrabber.exe
+D:\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.csprojResolveAssemblyReference.cache
+D:\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.Form1.resources
+D:\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.Formabout.resources
+D:\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.FormBody.resources
+D:\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.FormDever.resources
+D:\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.Properties.Resources.resources
+D:\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.csproj.GenerateResource.Cache
+D:\Projects\MethodGrabber\MethodGrabber\bin\Debug\MethodGrabber.pdb

@@ -100,12 +100,15 @@ namespace MethodGrabber
                 this.succeed = false;
                 requestCompleted = true;
                 bool _404 = s.Message.Contains("The remote server returned an error: (404) Not Found");
-                bool _405 = s.Message.Contains("405");
-                if (_405)
+                bool _40 = s.Message.Contains("40");
+
+                string _40er = Error(s.Message);
+
+                if (_40)
                 {
                     labelStat.Text = "Request sent";
                     textBoxHeaderValue.Text = "Options not allowed";
-                    textBoxcode.Text = 405.ToString();
+                    textBoxcode.Text = _40er.ToString();
                    succeed= requestCompleted = true;
                 }
                 else
@@ -116,6 +119,27 @@ namespace MethodGrabber
             }
             linkLabelbody.Visible = linkLabelHeaders.Visible = true;
             
+        }
+
+        private string Error(string p)
+        {
+            // something 405 x 
+
+            if (p.Contains(" ") )
+            {
+                string[] pcs = p.Split(' ');
+                foreach (string s in pcs)
+                {
+                    if (s.Contains("40"))
+                    {
+                       string x = s.Trim();
+                        return x;
+                    }
+                }
+            }
+           
+                return 400.ToString();
+
         }
 
         private bool isurl(string b)
@@ -140,8 +164,20 @@ namespace MethodGrabber
             label2.Visible=textBox1.TextLength<3;
         }//{ get; set; }
 
-        public string headers ="";
 
+        private string hv = "Headers empty";      
+
+        public string headers
+        {
+            get { return hv; }
+            set 
+            {
+                if (value.Length > 1)
+                    hv = value;
+                else
+                    hv = "Headers empty";
+            }
+        }
         private void linkLabelbody_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             FormBody f = new FormBody();
