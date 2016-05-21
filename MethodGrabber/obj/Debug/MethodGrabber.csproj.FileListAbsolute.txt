@@ -1,0 +1,11 @@
+c:\users\_gersywin_\documents\visual studio 2012\Projects\MethodGrabber\MethodGrabber\bin\Debug\MethodGrabber.exe
+c:\users\_gersywin_\documents\visual studio 2012\Projects\MethodGrabber\MethodGrabber\bin\Debug\MethodGrabber.pdb
+c:\users\_gersywin_\documents\visual studio 2012\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.csprojResolveAssemblyReference.cache
+c:\users\_gersywin_\documents\visual studio 2012\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.Form1.resources
+c:\users\_gersywin_\documents\visual studio 2012\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.Properties.Resources.resources
+c:\users\_gersywin_\documents\visual studio 2012\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.csproj.GenerateResource.Cache
+c:\users\_gersywin_\documents\visual studio 2012\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.exe
+c:\users\_gersywin_\documents\visual studio 2012\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.pdb
+c:\users\_gersywin_\documents\visual studio 2012\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.FormBody.resources
+c:\users\_gersywin_\documents\visual studio 2012\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.Formabout.resources
+c:\users\_gersywin_\documents\visual studio 2012\Projects\MethodGrabber\MethodGrabber\obj\Debug\MethodGrabber.FormDever.resources
